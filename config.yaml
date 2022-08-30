@@ -1,7 +1,7 @@
 default_chain: stride-testnet
 chains:
   gaia-testnet:
-    key: validator
+    key: gaia
     chain-id: GAIA
     rpc-addr: http://135.181.81.162:26657
     grpc-addr: http://135.181.81.162:9090

@@ -3,8 +3,8 @@ chains:
   gaia-testnet:
     key: gaia
     chain-id: GAIA
-    rpc-addr: http://$STRIDE_RPC_2
-    grpc-addr: http://$STRIDE_GRPC_2
+    rpc-addr: http://135.181.81.162:26657
+    grpc-addr: http://135.181.81.162:9090
     account-prefix: cosmos
     keyring-backend: test
     gas-adjustment: 1.2
